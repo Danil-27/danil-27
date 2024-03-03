@@ -1,3 +1,5 @@
+<img style="margin: 10px" src="./assets/Untitled_logo_2_free-file.jpg"  height="200" width="500px"/>
+
 ### My Skill Set
 
 ---
