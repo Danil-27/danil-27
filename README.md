@@ -30,4 +30,4 @@
 #### CodeWars
 
 <div align="center">
-<a href="https://www.codewars.com" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/rsschool_8d3300a8deb3fb19/badges/micro" alt="CodeWars" height="40" /></a></div>
+<a href="https://www.codewars.com" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/rsschool_8d3300a8deb3fb19/badges/micro" alt="CodeWars" height="30" /></a></div>
