@@ -1,5 +1,3 @@
-<img style="margin: 10px" src="./assets/Untitled_logo_2_free-file.jpg"  height="200" width="500px"/>
-
 ### My Skill Set
 
 ---
@@ -28,3 +26,8 @@
 </td><td valign="top" width="33%">
 
 ---
+
+#### CodeWars
+
+<div align="center">
+<a href="https://www.codewars.com" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/rsschool_8d3300a8deb3fb19/badges/micro" alt="CodeWars" height="40" /></a></div>
